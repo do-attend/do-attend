@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @do-attend
-- 👀 I’m interested in getting into it.
-- 🌱 I’m currently learning latest C# and .Net, along with Blazor
+- 👀 I’m interested in that.
+- 🌱 I’m currently learning godot and game design.
 - 💞️ I’m looking to collaborate on some things eventually.
 - 📫 How to reach me?
 
